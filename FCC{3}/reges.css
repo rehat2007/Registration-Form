@@ -1,0 +1,130 @@
+*{
+font-family:Tahoma ;
+}
+body{
+    background-color:steelblue;
+}
+h1,p{
+    text-align:center;
+}
+.input-element{
+    display: flex;
+    flex-direction: column;
+}
+
+form{
+    max-width: 600px;
+   
+    padding: 20px;
+    margin: auto;
+    font-size: 16px;
+}
+
+input{
+    padding: 7px;
+    border: none;
+    border-radius: 4px;
+    background-color:white; 
+}
+label{
+    padding-top: 15px;
+}
+.select-element{
+    display: flex;
+    flex-direction: column;
+}   
+select{
+    padding: 7px;
+    border: none;
+    border-radius: 4px;
+}
+.input-picture{
+    display: flex;
+    flex-direction: column;
+}
+input[ type= file ]{
+    background-color:white ;
+}
+#condition{
+    text-align: left;
+    margin-top: 40px;
+}
+
+button{
+    width: 380px;
+    padding: 7px;
+    border: none;
+    background-color: rgb(154, 198, 235);
+    font-size:18px ;
+}
+#button{
+    text-align: center;
+}
+textarea{
+    border: none;
+    border-radius: 4px;
+    height: 50px;
+}
+hr{
+  margin-top: 40px;
+  border: 2px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
